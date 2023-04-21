@@ -4,6 +4,7 @@
   "private": true,
   "license": "Apache-2.0",
   "scripts": {
+    "export": "next export",
     "start": "next start",
     "dev": "run-s context:manifest dev:next",
     "dev:next": "next dev",
